@@ -1,0 +1,7 @@
+utt_id,text,feature_path,feature_lens,label
+3081-166546-0073,YES,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/3081-166546-0073.npy,143,"[3, 18, 4, 11]"
+777-126732-0081,COMFORTABLE DEAR,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/777-126732-0081.npy,149,"[3, 17, 7, 16, 20, 7, 9, 5, 6, 21, 13, 4, 3, 14, 4, 6, 9]"
+251-136532-0022,LECTURES,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/251-136532-0022.npy,152,"[3, 13, 4, 17, 5, 15, 9, 4, 11]"
+2035-147960-0015,OTTO WINKED AT ME,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/2035-147960-0015.npy,154,"[3, 7, 5, 5, 7, 3, 24, 8, 10, 25, 4, 14, 3, 6, 5, 3, 16, 4]"
+1272-141231-0013,THE TWENTIES,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/1272-141231-0013.npy,162,"[3, 5, 12, 4, 3, 5, 24, 4, 10, 5, 8, 4, 11]"
+5694-64025-0000,SHILOH,/home5/zhangzhan/datasets/LirbiSpeechFbanktaKaldi-40/dev-clean/5694-64025-0000.npy,165,"[3, 11, 12, 8, 13, 7, 12]"
